@@ -16,4 +16,9 @@ const buscaLetraA = (palavra) => {
   return console.log(`A palavra ${palavra} não contem a letra 'a'`);
 }
 
-buscaLetraA("Miriama")
+buscaLetraA("Diego")
+buscaLetraA("Miriam")
+buscaLetraA("Giulia")
+buscaLetraA("heloisa")
+buscaLetraA("banana")
+buscaLetraA("Araraquara")
